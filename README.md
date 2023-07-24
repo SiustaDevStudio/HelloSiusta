@@ -1,3 +1,2 @@
 # SiustaRunner
-gra o spierdalaniu przed pewnym nauczycielem religii, swietnym teologiem.
-halo, halo czy to tu mam pisać?
+gra o uciekaniu* przed pewnym nauczycielem religii, swietnym teologiem.
